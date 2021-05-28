@@ -34,6 +34,11 @@
 
 }
 
+.logo {
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
 .toggle {
     position: relative;
     width: 60px;
@@ -45,6 +50,10 @@
     cursor: pointer;
 }
 
-.menu {
-    
+.toggle.active {
+    background: url('close.png');
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: center;
 }
+

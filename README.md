@@ -2,7 +2,7 @@
 
 ### About
 
-Utilizing the power of HTML, CSS and a tiny bit if JavaScipt, we create this stunning travel app landing page with looped video background.
+Utilizing the power of HTML, CSS and a tiny bit if JavaScript, we create this stunning travel app landing page with looped video background.
 
 ![example_gif](./example.gif)
 
